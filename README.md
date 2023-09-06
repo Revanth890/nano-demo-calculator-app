@@ -26,7 +26,7 @@ Checks whether the service is available.
 ###### Response  
 * Code: 200  
 * Content: `Hello world!`  
-
+hbg
 
 ##### POST /calculator/add  
 Adds two given numbers
